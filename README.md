@@ -1,1 +1,1 @@
-# javscript
+# this is tutorial file
